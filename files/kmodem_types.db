@@ -1,0 +1,9 @@
+1:GAUGE:-100:100, ch2:GAUGE:-100:100, ch3:GAUGE:-100:100, ch4:GAUGE:-100:100, ch5:GAUGE:-100:100, ch6:GAUGE:-100:100, ch7:GAUGE:-100:100, ch8:GAUGE:-100:100
+ds_freq    ch1:GAUGE:0:U,    ch2:GAUGE:0:U,    ch3:GAUGE:0:U,    ch4:GAUGE:0:U,    ch5:GAUGE:0:U,    ch6:GAUGE:0:U,    ch7:GAUGE:0:U,    ch8:GAUGE:0:U
+ds_db      ch1:GAUGE:0:U,    ch2:GAUGE:0:U,    ch3:GAUGE:0:U,    ch4:GAUGE:0:U,    ch5:GAUGE:0:U,    ch6:GAUGE:0:U,    ch7:GAUGE:0:U,    ch8:GAUGE:0:U
+ds_mod     ch1:GAUGE:0:U,    ch2:GAUGE:0:U,    ch3:GAUGE:0:U,    ch4:GAUGE:0:U,    ch5:GAUGE:0:U,    ch6:GAUGE:0:U,    ch7:GAUGE:0:U,    ch8:GAUGE:0:U
+
+us_dbmv    ch1:GAUGE:-100:100, ch2:GAUGE:-100:100, ch3:GAUGE:-100:100, ch4:GAUGE:-100:100
+us_freq    ch1:GAUGE:0:U,    ch2:GAUGE:0:U,    ch3:GAUGE:0:U,    ch4:GAUGE:0:U
+us_db      ch1:GAUGE:0:U,    ch2:GAUGE:0:U,    ch3:GAUGE:0:U,    ch4:GAUGE:0:U
+us_mod     ch1:GAUGE:0:U,    ch2:GAUGE:0:U,    ch3:GAUGE:0:U,    ch4:GAUGE:0:U
