@@ -8,7 +8,7 @@
     'firmware.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
     'monitor.berlin.freifunk.net',
-    'bgp.berlin.freifunk.net'
+    'bgp01.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
@@ -25,7 +25,7 @@
     'rhxb-2-no',
     'rhxb-2-nw',
     'rhxb-2-so',
-    'rhxb-2.sw',
+    'rhxb-2-sw',
     'rhxb-rt1',
     'rhxb-warte'
   );
