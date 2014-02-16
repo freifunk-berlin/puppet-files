@@ -30,13 +30,26 @@
     'rhxb-warte'
   );
   $CONFIG['cat']['E-Lok'] = array(
+    'laskerwiese-2ghz',
     'elok-lascafe',
     'elok-medienraum',
     'elok-nordwest'
   );
   $CONFIG['cat']['Zwingli'] = array(
     'Zwingli-Core',
-    'Zwingli-Ost-2GHz'
+    'Zwingli-Ost-2GHz',
+    'Zwingli-Ost-5GHz',     
+    'Zwingli-Nord-2GHz',
+    'Zwingli-Nord-5GHz',    
+    'Zwingli-West-2GHz',    
+    'Zwingli-West-5GHz',
+    'Zwingli-Sued-2GHz'    
+  );
+  $CONFIG['cat']['Samariterkirche'] = array(
+    'Sama-Nord-2ghz',
+    'Sama-West-2ghz',
+    'sama-ost-2ghz',
+    'sama-sued-2ghz'
   );
   $CONFIG['cat']['Finowst. 2a'] = array(
     'f2a-core-rt',
