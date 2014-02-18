@@ -13,8 +13,8 @@
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
   );
-  $CONFIG['cat']['Zoofenster'] = array('
-    zoofenster22', 'zoofenster24', 'zoofenster27', 'zoofenster_33_2'
+  $CONFIG['cat']['Zoofenster'] = array(
+    'zoofenster22', 'zoofenster24', 'zoofenster27', 'zoofenster_33_2'
   );
   $CONFIG['cat']['Segenkirche'] = array(
     'segen-no-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
