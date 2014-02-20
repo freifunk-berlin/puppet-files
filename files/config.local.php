@@ -56,6 +56,13 @@
     'f2a-omni-2ghz',
     'f2a-sued'
   );
+  $CONFIG['cat']['Kinzigstr. 9'] = array(
+    'k9-bbb-rt1',
+    'k9-bbb-30',
+    'k9-bbb-31',     
+    'k9-bbb-32',     
+    'k9-bbb-33'     
+  );
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
     'arcaden-rhxb-kindl'
