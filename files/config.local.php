@@ -33,6 +33,7 @@
     'laskerwiese-2ghz',
     'elok-lascafe',
     'elok-medienraum',
+    'elok-tresen',
     'elok-nordwest'
   );
   $CONFIG['cat']['Zwingli'] = array(
@@ -46,6 +47,7 @@
     'Zwingli-Sued-2GHz'    
   );
   $CONFIG['cat']['Samariterkirche'] = array(
+    'sama-core-rt',
     'Sama-Nord-2ghz',
     'Sama-West-2ghz',
     'sama-ost-2ghz',
