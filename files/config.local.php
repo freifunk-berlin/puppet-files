@@ -14,7 +14,7 @@
     'segen-router', 'servnix42', 'druschba'
   );
   $CONFIG['cat']['Zoofenster'] = array(
-    'zoofenster22', 'zoofenster24', 'zoofenster27', 'zoofenster_33_2'
+    'zoofenster22', 'zoofenster23', 'zoofenster24', 'zoofenster25', 'zoofenster27', 'zoofenster_33_2'
   );
   $CONFIG['cat']['Segenkirche'] = array(
     'segen-no-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
@@ -68,5 +68,16 @@
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
     'arcaden-rhxb-kindl'
+  );
+  $CONFIG['cat']['Manstein 10'] = array(
+    'manstein10-core',
+    'manstein10-n2',
+    'manstein10-o2'
+  );
+  $CONFIG['cat']['Martin Luther Kirche'] = array(
+    'martin-luther-core',
+    'martin-luther-no',
+    'martin-luther-so',
+    'martin-luther-sw',
   );
 ?>
