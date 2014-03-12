@@ -42,12 +42,12 @@
   $CONFIG['cat']['Zwingli'] = array(
     'Zwingli-Core',
     'Zwingli-Ost-2GHz',
-    'Zwingli-Ost-5GHz',     
+    'Zwingli-Ost-5GHz',
     'Zwingli-Nord-2GHz',
-    'Zwingli-Nord-5GHz',    
-    'Zwingli-West-2GHz',    
+    'Zwingli-Nord-5GHz',
+    'Zwingli-West-2GHz',
     'Zwingli-West-5GHz',
-    'Zwingli-Sued-2GHz'    
+    'Zwingli-Sued-2GHz'
   );
   $CONFIG['cat']['Samariterkirche'] = array(
     'sama-core-rt',
@@ -64,9 +64,9 @@
   $CONFIG['cat']['Kinzigstr. 9'] = array(
     'k9-bbb-rt1',
     'k9-bbb-30',
-    'k9-bbb-31',     
-    'k9-bbb-32',     
-    'k9-bbb-33'     
+    'k9-bbb-31',
+    'k9-bbb-32',
+    'k9-bbb-33'
   );
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
