@@ -67,7 +67,9 @@
   );
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
-    'arcaden-rhxb-kindl'
+    'arcaden-rhxb-kindl',
+    'arcaden-bib',
+    'arcaden-nordost'
   );
   $CONFIG['cat']['Manstein 10'] = array(
     'manstein10-core',
@@ -79,5 +81,15 @@
     'martin-luther-no',
     'martin-luther-so',
     'martin-luther-sw',
+  );
+  $CONFIG['cat']['Emmaus Kirche'] = array(
+    'emma-core',
+    'emma-nno-m2',
+    'emma-nnw-m2',
+    'emma-ono-m2',
+    'emma-oso-m2',
+    'emma-sso-m2',
+    'emma-ssw-m2',
+    'emma-wnw-m2'
   );
 ?>
