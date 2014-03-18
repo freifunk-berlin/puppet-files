@@ -92,4 +92,12 @@
     'emma-ssw-m2',
     'emma-wnw-m2'
   );
+  $CONFIG['cat']['Ohlauer Str - Refugee Strike'] = array(
+    'refugee-core',
+    'refugee-mesh-2',
+    'refugee-mesh-4',
+    'refugee-mesh-5',
+    'refugee-mesh-6',
+    'refugee-mesh-7',
+  );
 ?>
