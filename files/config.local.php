@@ -100,6 +100,7 @@
     'refugee-mesh-5',
     'refugee-mesh-6',
     'refugee-mesh-7',
-    'refugee-mesh-8'
+    'refugee-mesh-8',
+    'refugee-mesh-9'
   );
 ?>
