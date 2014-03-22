@@ -67,7 +67,6 @@
   );
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
-    'arcaden-rhxb-kindl',
     'arcaden-bib',
     'arcaden-nordost'
   );
@@ -113,7 +112,7 @@
     'Suedblock',
     'blage',
     'silverfuture',
-    'schauemschlaeger',
+    'schaumschlaeger',
     'Harzer89',
     'Fulda52',
     'kfetisch'
