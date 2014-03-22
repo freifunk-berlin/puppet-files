@@ -91,7 +91,8 @@
     'emma-oso-m2',
     'emma-sso-m2',
     'emma-ssw-m2',
-    'emma-wnw-m2'
+    'emma-wnw-m2',
+    'emma-wsw-m2'
   );
   $CONFIG['cat']['Ohlauer Str - Refugee Strike'] = array(
     'refugee-core',
@@ -103,5 +104,18 @@
     'refugee-mesh-7',
     'refugee-mesh-8',
     'refugee-mesh-9'
+  );
+  $CONFIG['cat']['IN-Berlin'] = array(
+    'am-dach-rt1'
+  );
+  $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
+    'tantehorst',
+    'Suedblock',
+    'blage',
+    'silverfuture',
+    'schauemschlaeger',
+    'Harzer89',
+    'Fulda52,',
+    'kfetisch'
   );
 ?>
