@@ -81,6 +81,7 @@
     'martin-luther-no',
     'martin-luther-so',
     'martin-luther-sw',
+    'martin-luther-cafe'
   );
   $CONFIG['cat']['Emmaus Kirche'] = array(
     'emma-core',
