@@ -115,7 +115,7 @@
     'silverfuture',
     'schauemschlaeger',
     'Harzer89',
-    'Fulda52,',
+    'Fulda52',
     'kfetisch'
   );
 ?>
