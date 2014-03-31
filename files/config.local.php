@@ -8,7 +8,8 @@
     'firmware.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
     'monitor.berlin.freifunk.net',
-    'bgp01.berlin.freifunk.net'
+    'bgp01.berlin.freifunk.net',
+    'bgp02.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
@@ -105,7 +106,8 @@
     'refugee-mesh-9'
   );
   $CONFIG['cat']['IN-Berlin'] = array(
-    'am-dach-rt1'
+    'am-dach-rt1',
+    'am-dach-ns2-sw'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
     'tantehorst',
@@ -115,6 +117,7 @@
     'schaumschlaeger',
     'Harzer89',
     'Fulda52',
-    'kfetisch'
+    'kfetisch',
+    'voigt42'
   );
 ?>
