@@ -35,7 +35,9 @@
     'elok-lascafe',
     'elok-medienraum',
     'elok-tresen',
-    'elok-nordwest'
+    'elok-nordwest',
+    'ELOK-Nordwest-2GHz',
+    'ELOK-Nordwest-5GHz'
   );
   $CONFIG['cat']['Zwingli'] = array(
     'Zwingli-Core',
