@@ -107,6 +107,13 @@
     'refugee-mesh-8',
     'refugee-mesh-9'
   );
+
+  $CONFIG['cat']['RAW'] = array(
+    'RAW-Core',
+    'RAW-Ost',
+    'RAW-West',
+    'RAW-Simondach'
+  );
   $CONFIG['cat']['IN-Berlin'] = array(
     'am-dach-rt1',
     'am-dach-ns2-sw'
