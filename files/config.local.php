@@ -30,6 +30,10 @@
     'rhxb-rt1',
     'rhxb-warte'
   );
+  $CONFIG['cat']['Rathaus Neukoelln'] = array(
+    'rhnk-core',
+    'rhnk-ap-0'
+  );
   $CONFIG['cat']['E-Lok'] = array(
     'laskerwiese-2ghz',
     'elok-lascafe',
