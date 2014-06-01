@@ -9,7 +9,8 @@
     'vmhost03.berlin.freifunk.net',
     'monitor.berlin.freifunk.net',
     'bgp01.berlin.freifunk.net',
-    'bgp02.berlin.freifunk.net'
+    'bgp02.berlin.freifunk.net',
+    'friendica.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
@@ -40,6 +41,7 @@
     'elok-medienraum',
     'elok-tresen',
     'elok-nordwest',
+    'elok-ff-core',
     'ELOK-Nordwest-2GHz',
     'ELOK-Nordwest-5GHz'
   );
@@ -121,6 +123,7 @@
   );
   $CONFIG['cat']['IN-Berlin'] = array(
     'am-dach-rt1',
+    'am-dach-ns5-sw',
     'am-dach-ns2-sw'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
@@ -132,6 +135,8 @@
     'Harzer89',
     'Fulda52',
     'kfetisch',
-    'voigt42'
+    'voigt42',
+    'vetomat-indoor',
+    'vetomat-outdoor'
   );
 ?>
