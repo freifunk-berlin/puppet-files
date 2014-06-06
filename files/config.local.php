@@ -11,6 +11,7 @@
     'bgp01.berlin.freifunk.net',
     'bgp02.berlin.freifunk.net',
     'friendica.berlin.freifunk.net'
+    'download-master.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
@@ -20,7 +21,7 @@
   );
   $CONFIG['cat']['Segenkirche'] = array(
     'segen-no-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
-    'segen-sw-5', 'segen-nw-2', 'segen-nw-5', 'segen-top-sw'
+    'segen-sw-5', 'segen-nw-2', 'segen-nw-5', 'segen-top-sued-west',
   );
   $CONFIG['cat']['Eliaskirche'] = array('Eliaskirche-West', 'eliaskircheS5G');
   $CONFIG['cat']['Rathaus Kreuzberg'] = array(
@@ -36,12 +37,12 @@
     'rhnk-ap-0'
   );
   $CONFIG['cat']['E-Lok'] = array(
-    'laskerwiese-2ghz',
-    'elok-lascafe',
+    'elok-ff-core',
     'elok-medienraum',
     'elok-tresen',
+    'elok-lascafe',
+    'laskerwiese-2ghz',
     'elok-nordwest',
-    'elok-ff-core',
     'ELOK-Nordwest-2GHz',
     'ELOK-Nordwest-5GHz'
   );
@@ -125,6 +126,9 @@
     'am-dach-rt1',
     'am-dach-ns5-sw',
     'am-dach-ns2-sw'
+  );
+  $CONFIG['cat']['I/P/B/'] = array(
+    'ipb-west-5ghz'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
     'tantehorst',
