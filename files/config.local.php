@@ -10,7 +10,7 @@
     'monitor.berlin.freifunk.net',
     'bgp01.berlin.freifunk.net',
     'bgp02.berlin.freifunk.net',
-    'friendica.berlin.freifunk.net'
+    'friendica.berlin.freifunk.net',
     'download-master.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
@@ -21,7 +21,7 @@
   );
   $CONFIG['cat']['Segenkirche'] = array(
     'segen-no-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
-    'segen-sw-5', 'segen-nw-2', 'segen-nw-5', 'segen-top-sued-west',
+    'segen-sw-5', 'segen-nw-2', 'segen-nw-5', 'segen-top-sued-west'
   );
   $CONFIG['cat']['Eliaskirche'] = array('Eliaskirche-West', 'eliaskircheS5G');
   $CONFIG['cat']['Rathaus Kreuzberg'] = array(
