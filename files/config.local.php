@@ -20,7 +20,7 @@
     'zoofenster22', 'zoofenster23', 'zoofenster24', 'zoofenster25', 'zoofenster27', 'zoofenster_33_2'
   );
   $CONFIG['cat']['Segenkirche'] = array(
-    'segen-no-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
+    'segen-loggia', 'segen-no-5-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
     'segen-sw-5', 'segen-nw-2', 'segen-nw-5', 'segen-top-sued-west'
   );
   $CONFIG['cat']['Eliaskirche'] = array('Eliaskirche-West', 'eliaskircheS5G');
@@ -114,6 +114,13 @@
     'refugee-mesh-8',
     'refugee-mesh-9',
     'refugee-mesh-10'
+  );
+
+  $CONFIG['cat']'[Flux-FM'] = array(
+    'fluxfm-core',
+    'fluxfm-m2-o',
+    'fluxfm-m2-no',
+    'fluxfm-m2-nw'
   );
 
   $CONFIG['cat']['RAW'] = array(
