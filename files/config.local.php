@@ -119,8 +119,11 @@
   $CONFIG['cat']'[Flux-FM'] = array(
     'fluxfm-core',
     'fluxfm-m2-o',
+    'fluxfm-m5-o',
     'fluxfm-m2-no',
-    'fluxfm-m2-nw'
+    'fluxfm-m5-no',
+    'fluxfm-m2-nw',
+    'fluxfm-m5-nw'
   );
 
   $CONFIG['cat']['RAW'] = array(
