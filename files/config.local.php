@@ -3,7 +3,7 @@
   $CONFIG['socket'] = 'unix:///var/run/collectd-socket';
   $CONFIG['graph_type'] = 'hybrid';
 
-  $CONFIG['cat']['berlin.freifunk.net'] = array(
+  $CONFIG['cat']['freifunk.net'] = array(
     'www.freifunk.net'
   );
   $CONFIG['cat']['berlin.freifunk.net'] = array(
@@ -24,7 +24,10 @@
   );
   $CONFIG['cat']['Segenkirche'] = array(
     'segen-loggia', 'segen-no-5-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
-    'segen-sw-5', 'segen-nw-2', 'segen-nw-5', 'segen-top-sued-west'
+    'segen-sw-5', 'segen-nw-2', 'segen-nw-5',
+    'segen-top-sw',
+    'Segen-Top-West',
+    'segen-top-sued-west'
   );
   $CONFIG['cat']['Eliaskirche'] = array('Eliaskirche-West', 'eliaskircheS5G');
   $CONFIG['cat']['Rathaus Kreuzberg'] = array(
@@ -119,7 +122,7 @@
     'refugee-mesh-10'
   );
 
-  $CONFIG['cat']'[Flux-FM'] = array(
+  $CONFIG['cat']['Flux-FM'] = array(
     'fluxfm-core',
     'fluxfm-m2-o',
     'fluxfm-m5-o',
@@ -144,7 +147,7 @@
     'ipb-west-5ghz'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
-    'dk0tu-core'
+    'dk0tu-core',
     'tantehorst',
     'Suedblock',
     'blage',
