@@ -4,6 +4,9 @@
   $CONFIG['graph_type'] = 'hybrid';
 
   $CONFIG['cat']['berlin.freifunk.net'] = array(
+    'www.freifunk.net'
+  );
+  $CONFIG['cat']['berlin.freifunk.net'] = array(
     'vpn03.berlin.freifunk.net',
     'firmware.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
@@ -141,6 +144,7 @@
     'ipb-west-5ghz'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
+    'dk0tu-core'
     'tantehorst',
     'Suedblock',
     'blage',
@@ -151,6 +155,7 @@
     'kfetisch',
     'voigt42',
     'vetomat-indoor',
-    'vetomat-outdoor'
+    'vetomat-outdoor',
+    'wg1337-west'
   );
 ?>
