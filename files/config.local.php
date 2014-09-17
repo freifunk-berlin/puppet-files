@@ -53,6 +53,16 @@
     'ELOK-Nordwest-2GHz',
     'ELOK-Nordwest-5GHz'
   );
+  $CONFIG['cat']['JUP'] = array(
+    'JUP-core',
+    'JUP-beam',
+    'JUP-omni',
+    'JUP-ost-5',
+    'JUP-nord-2',
+    'JUP-nord-5',
+    'JUP-sued-2',
+    'JUP-sued-5'
+  );  
   $CONFIG['cat']['Zwingli'] = array(
     'Zwingli-Core',
     'Zwingli-Ost-2GHz',
