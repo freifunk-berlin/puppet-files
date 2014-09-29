@@ -15,6 +15,7 @@
     'bgp01.berlin.freifunk.net',
     'bgp02.berlin.freifunk.net',
     'friendica.berlin.freifunk.net',
+    'ip.berlin.freifunk.net',
     'download-master.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
@@ -55,6 +56,8 @@
   );
   $CONFIG['cat']['JUP'] = array(
     'JUP-core',
+    'JUP-OG1',
+    'JUP-OG2',
     'JUP-beam',
     'JUP-omni',
     'JUP-ost-5',
@@ -91,6 +94,9 @@
     'k9-bbb-31',
     'k9-bbb-32',
     'k9-bbb-33'
+  );
+  $CONFIG['cat']['MABB Kleine Präsidentenstr. 1'] = array(
+    'mabb-rt1'
   );
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
@@ -168,6 +174,10 @@
     'Fulda52',
     'kfetisch',
     'voigt42',
+    'milli',
+    'laidak',
+    'derrida',
+    'Hermann12',
     'vetomat-indoor',
     'vetomat-outdoor',
     'wg1337-west'
