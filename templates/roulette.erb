@@ -6,8 +6,8 @@
 
 INET_DEV=eth0			# External interface
 INET_ADD=77.87.49		# Additional IPs
-INET_MIN=65
-INET_MAX=126
+INET_MIN=62
+INET_MAX=1
 INET_RNG=$(((${INET_MAX} - ${INET_MIN}) + 1))
 VPN_DEVS="tun-melle tun-tcp tun-udp" # openvpn tunnel intefaces
 MESH_NET="6.0.0.0/8 10.0.0.0/8 172.16.0.0/12"
