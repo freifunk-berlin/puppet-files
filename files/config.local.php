@@ -163,8 +163,15 @@
   $CONFIG['cat']['I/P/B/'] = array(
     'ipb-west-5ghz'
   );
+  $CONFIG['cat']['Teufelsberg'] = array(
+    'tberg-core',
+    'tberg-loft',
+    'tberg-loft-m2'
+  );
+  $CONFIG['cat']['TU Berlin'] = array(
+    'dk0tu-core'
+  );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
-    'dk0tu-core',
     'tantehorst',
     'Suedblock',
     'blage',
