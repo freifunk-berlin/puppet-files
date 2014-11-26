@@ -11,6 +11,7 @@
     'vpn03.berlin.freifunk.net',
     'firmware.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
+    'host-ipb.berlin.freifunk.net',
     'monitor.berlin.freifunk.net',
     'bgp01.berlin.freifunk.net',
     'bgp02.berlin.freifunk.net',
@@ -86,6 +87,7 @@
   $CONFIG['cat']['Finowst. 2a'] = array(
     'f2a-core-rt',
     'f2a-omni-2ghz',
+    'f2a-omni-2og',
     'f2a-sued'
   );
   $CONFIG['cat']['Kinzigstr. 9'] = array(
@@ -96,7 +98,9 @@
     'k9-bbb-33'
   );
   $CONFIG['cat']['MABB Kleine Präsidentenstr. 1'] = array(
-    'mabb-rt1'
+    'mabb-rt1',
+    'mabb-ns2-monbijou',
+    'mabb-ns2-simon'
   );
   $CONFIG['cat']['Neukoelln Arcaden'] = array(
     'arcaden-klunkerkranich',
@@ -106,6 +110,8 @@
   $CONFIG['cat']['Manstein 10'] = array(
     'manstein10-core',
     'manstein10-n2',
+    'manstein10-w2',
+    'manstein10-s2',
     'manstein10-o2'
   );
   $CONFIG['cat']['Martin Luther Kirche'] = array(
@@ -169,7 +175,9 @@
     'tberg-loft-m2'
   );
   $CONFIG['cat']['TU Berlin'] = array(
-    'dk0tu-core'
+    'dk0tu-core',
+    'dk0tu-mathe',
+    'tub-zoo-5ghz'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
     'tantehorst',
