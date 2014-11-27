@@ -9,6 +9,7 @@
   $CONFIG['cat']['berlin.freifunk.net'] = array(
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
+    'vpn03b.berlin.freifunk.net',
     'firmware.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
     'host-ipb.berlin.freifunk.net',
