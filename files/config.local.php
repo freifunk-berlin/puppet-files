@@ -16,7 +16,7 @@
     'host-ipb.berlin.freifunk.net',
     'monitor.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
-    'vpn-bbb.berlin.freifunk.net',
+    'bbb-vpn.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
     'vpn03b.berlin.freifunk.net'
@@ -68,7 +68,7 @@
     'JUP-nord-5',
     'JUP-sued-2',
     'JUP-sued-5'
-  );  
+  );
   $CONFIG['cat']['Zwingli'] = array(
     'Zwingli-Core',
     'Zwingli-Ost-2GHz',
