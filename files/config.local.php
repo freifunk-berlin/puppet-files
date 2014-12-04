@@ -10,7 +10,7 @@
     'bgp01.berlin.freifunk.net',
     'bgp02.berlin.freifunk.net',
     'config.berlin.freifunk.net',
-    'download-master.berlin.freifunk.net'
+    'download-master.berlin.freifunk.net',
     'firmware.berlin.freifunk.net',
     'friendica.berlin.freifunk.net',
     'host-ipb.berlin.freifunk.net',
@@ -19,7 +19,7 @@
     'vpn-bbb.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
-    'vpn03b.berlin.freifunk.net',
+    'vpn03b.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
