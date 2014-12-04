@@ -7,6 +7,7 @@
     'www.freifunk.net'
   );
   $CONFIG['cat']['berlin.freifunk.net'] = array(
+    'vpn-bbb.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
     'vpn03b.berlin.freifunk.net',
