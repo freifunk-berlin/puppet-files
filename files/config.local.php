@@ -17,6 +17,7 @@
     'monitor.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
     'bbb-vpn.berlin.freifunk.net',
+    'icvpn02.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
     'vpn03b.berlin.freifunk.net'
@@ -28,7 +29,7 @@
     'zoofenster22', 'zoofenster23', 'zoofenster24', 'zoofenster25', 'zoofenster27', 'zoofenster_33_2'
   );
   $CONFIG['cat']['Segenkirche'] = array(
-    'segen-loggia', 'segen-no-5-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
+    'segen-core', 'segen-loggia', 'segen-no-5-2', 'segen-no-5', 'segen-so-2', 'segen-so-5', 'segen-sw-2',
     'segen-sw-5', 'segen-nw-2', 'segen-nw-5',
     'segen-top-sw',
     'Segen-Top-West',
@@ -90,6 +91,7 @@
     'f2a-core-rt',
     'f2a-omni-2ghz',
     'f2a-omni-2og',
+    'f2a-nno-2ghz,'
     'f2a-sued'
   );
   $CONFIG['cat']['Kinzigstr. 9'] = array(
@@ -178,13 +180,23 @@
   );
   $CONFIG['cat']['TU Berlin'] = array(
     'dk0tu-core',
+    'dk0tu-shack',
     'dk0tu-mathe',
-    'tub-zoo-5ghz'
+    'tub-zoo-5ghz',
+    'tub-am-2ghz',
+    'tub-mathe-2ghz'
   );
+  $CONFIG['cat']['SKA95'] = array(
+    'ska95-core',
+    'ska95-cortile',
+    'ska95-schoolyard'
+  };
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
+    'beuth0',
     'tantehorst',
     'Suedblock',
     'blage',
+    'tristeza',
     'silverfuture',
     'schaumschlaeger',
     'Harzer89',
@@ -197,6 +209,7 @@
     'Hermann12',
     'vetomat-indoor',
     'vetomat-outdoor',
+    'wahlkreisbuero-wawzyniak',
     'wg1337-west'
   );
 ?>
