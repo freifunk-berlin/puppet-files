@@ -7,19 +7,19 @@
     'www.freifunk.net'
   );
   $CONFIG['cat']['berlin.freifunk.net'] = array(
+    'bgp01.berlin.freifunk.net',
+    'bgp02.berlin.freifunk.net',
+    'download-master.berlin.freifunk.net'
+    'firmware.berlin.freifunk.net',
+    'friendica.berlin.freifunk.net',
+    'host-ipb.berlin.freifunk.net',
+    'ip.berlin.freifunk.net',
+    'monitor.berlin.freifunk.net',
+    'vmhost03.berlin.freifunk.net',
     'vpn-bbb.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
     'vpn03b.berlin.freifunk.net',
-    'firmware.berlin.freifunk.net',
-    'vmhost03.berlin.freifunk.net',
-    'host-ipb.berlin.freifunk.net',
-    'monitor.berlin.freifunk.net',
-    'bgp01.berlin.freifunk.net',
-    'bgp02.berlin.freifunk.net',
-    'friendica.berlin.freifunk.net',
-    'ip.berlin.freifunk.net',
-    'download-master.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
