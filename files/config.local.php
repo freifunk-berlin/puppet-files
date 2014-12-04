@@ -9,11 +9,11 @@
   $CONFIG['cat']['berlin.freifunk.net'] = array(
     'bgp01.berlin.freifunk.net',
     'bgp02.berlin.freifunk.net',
+    'config.berlin.freifunk.net',
     'download-master.berlin.freifunk.net'
     'firmware.berlin.freifunk.net',
     'friendica.berlin.freifunk.net',
     'host-ipb.berlin.freifunk.net',
-    'ip.berlin.freifunk.net',
     'monitor.berlin.freifunk.net',
     'vmhost03.berlin.freifunk.net',
     'vpn-bbb.berlin.freifunk.net',
