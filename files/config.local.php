@@ -91,7 +91,7 @@
     'f2a-core-rt',
     'f2a-omni-2ghz',
     'f2a-omni-2og',
-    'f2a-nno-2ghz,'
+    'f2a-nno-2ghz',
     'f2a-sued'
   );
   $CONFIG['cat']['Kinzigstr. 9'] = array(
