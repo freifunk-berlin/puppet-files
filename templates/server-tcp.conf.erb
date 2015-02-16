@@ -18,8 +18,10 @@ comp-lzo yes
 topology subnet
 server 172.31.239.0 255.255.255.0
 push "redirect-gateway def1 bypass-dhcp bypass-dns"
-status /var/log/openvpn-status-tcp.log
-ifconfig-pool-persist /var/run/openvpn-pool-tcp.txt
+status /dev/null
+log /dev/null
+ifconfig-pool-persist /dev/null 0
+verb 2
 
 max-routes-per-client 4096
 iroute-timeout 3600
@@ -32,4 +34,3 @@ learn-address openvpn-learn-address
 tcp-queue-limit 256
 script-security 2
 keepalive 10 60
-verb 2
