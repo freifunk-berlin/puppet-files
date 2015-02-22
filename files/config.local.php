@@ -81,18 +81,24 @@
     'Zwingli-Sued-2GHz'
   );
   $CONFIG['cat']['Samariterkirche'] = array(
-    'sama-core-rt',
-    'Sama-Nord-2ghz',
-    'Sama-West-2ghz',
+    'sama-core',
+    'sama-nord-2ghz',
+    'sama-nord-5ghz',
+    'sama-west-2ghz',
+    'sama-west-5ghz',
     'sama-ost-2ghz',
-    'sama-sued-2ghz'
+    'sama-ost-5ghz',
+    'sama-sued-5ghz',
+    'sama-sued-2ghz',
+    'sama-kirchenschiff'
   );
   $CONFIG['cat']['Finowst. 2a'] = array(
     'f2a-core-rt',
     'f2a-omni-2ghz',
     'f2a-omni-2og',
     'f2a-nno-2ghz',
-    'f2a-sued'
+    'f2a-sued',
+    'f2a-sued-2ghz'
   );
   $CONFIG['cat']['Kinzigstr. 9'] = array(
     'k9-bbb-rt1',
@@ -127,14 +133,14 @@
   );
   $CONFIG['cat']['Emmaus Kirche'] = array(
     'emma-core',
-    'emma-nno-m2',
-    'emma-nnw-m2',
+    'emma-nno-2ghz',
+    'emma-nnw-2ghz',
     'emma-ono-m2',
-    'emma-oso-m2',
-    'emma-sso-m2',
+    'emma-oso-2ghz',
+    'emma-sso-2ghz',
     'emma-ssw-m2',
-    'emma-wnw-m2',
-    'emma-wsw-m2'
+    'emma-wnw-2ghz',
+    'emma-wsw-2ghz'
   );
   $CONFIG['cat']['Ohlauer Str - Refugee Strike'] = array(
     'refugee-core',
@@ -163,15 +169,26 @@
     'RAW-Core',
     'RAW-Ost',
     'RAW-West',
-    'RAW-Simondach'
+    'RAW-Simondach',
+    'revaler10-core',
+    'revaler10-m2-ost',
+    'revaler10-m2-west',
+    'revaler10-m5-sued'
   );
   $CONFIG['cat']['IN-Berlin'] = array(
     'am-dach-rt1',
     'am-dach-ns5-sw',
-    'am-dach-ns2-sw'
+    'am-dach-ns5-so'
   );
   $CONFIG['cat']['I/P/B/'] = array(
     'ipb-west-5ghz'
+  );
+  $CONFIG['cat']['Christophorus'] = array(
+    'christophorus-core',
+    'christophorus-n',
+    'christophorus-o',
+    'christophorus-s',
+    'christophorus-w'
   );
   $CONFIG['cat']['Teufelsberg'] = array(
     'tberg-core',
