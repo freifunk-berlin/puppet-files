@@ -207,7 +207,7 @@
     'ska95-core',
     'ska95-cortile',
     'ska95-schoolyard'
-  };
+  );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
     'beuth0',
     'tantehorst',
