@@ -20,7 +20,8 @@
     'icvpn02.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
-    'vpn03b.berlin.freifunk.net'
+    'vpn03b.berlin.freifunk.neta',
+    'vpn03c.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
@@ -78,7 +79,8 @@
     'Zwingli-Nord-5GHz',
     'Zwingli-West-2GHz',
     'Zwingli-West-5GHz',
-    'Zwingli-Sued-2GHz'
+    'Zwingli-Sued-2GHz',
+    'Zwingli-Sued-5GHz'
   );
   $CONFIG['cat']['Samariterkirche'] = array(
     'sama-core',
@@ -98,7 +100,11 @@
     'f2a-omni-2og',
     'f2a-nno-2ghz',
     'f2a-sued',
-    'f2a-sued-2ghz'
+    'f2a-bbb-sw',
+    'f2a-bbb-west',
+    'f2a-finow-nord-2ghz',
+    'f2a-finow-sued-2ghz',
+    'f2a-testing-dfs'
   );
   $CONFIG['cat']['Kinzigstr. 9'] = array(
     'k9-bbb-rt1',
@@ -207,6 +213,26 @@
     'ska95-core',
     'ska95-cortile',
     'ska95-schoolyard'
+  );
+  $CONFIG['cat']['c-base'] = array(
+    'c-base-core',
+    'c-base-ceminar',
+    'c-base-mainhall-exit',
+    'c-base-mainhall-he1'
+  );
+  $CONFIG['cat']['AnhalterBf'] = array(
+    'AnhalterBf-NSM2loco',
+    'AnhalterBf-Sued-NSM5',
+    'AnhalterBf-SuedOst-NSM2',
+    'AnhalterBf-SuedWest-NSM2',
+    'AnhalterBf-West-2GHz'
+  );
+  $CONFIG['cat']['humpty-frei'] = array(
+    'humpty-frei-main',
+    'humpty-frei-beeren-back',
+    'humpty-frei-obentraut-back',
+    'humpty-frei-rhxb',
+    'humpty-frei-saigon'
   );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
     'beuth0',
