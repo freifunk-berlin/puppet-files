@@ -2,6 +2,8 @@
   $CONFIG['version'] = 4;
   $CONFIG['socket'] = 'unix:///var/run/collectd-socket';
   $CONFIG['graph_type'] = 'hybrid';
+  # default plugins to show on host page
+  $CONFIG['overview'] = array('load', 'cpu', 'memory', 'interface');
 
   $CONFIG['cat']['freifunk.net'] = array(
     'www.freifunk.net'
