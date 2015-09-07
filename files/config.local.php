@@ -234,6 +234,12 @@
     'humpty-frei-rhxb',
     'humpty-frei-saigon'
   );
+  $CONFIG['cat']['Rixbox'] = array(
+    'rixbox-core',
+    'rixbox-node01',
+    'rixbox-node02',
+    'rixbox-node03'
+  );
   $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
     'beuth0',
     'tantehorst',
