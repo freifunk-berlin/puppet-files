@@ -22,7 +22,7 @@
     'icvpn02.berlin.freifunk.net',
     'vpn02.berlin.freifunk.net',
     'vpn03.berlin.freifunk.net',
-    'vpn03b.berlin.freifunk.neta',
+    'vpn03b.berlin.freifunk.net',
     'vpn03c.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
