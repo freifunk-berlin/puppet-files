@@ -165,6 +165,16 @@
     'refugee-mesh-12'
   );
 
+
+  $CONFIG['cat']['Refugee Notunterkünfte'] = array(
+    'refugees-TeskeSchuleUplink',
+    'refugees-haarlemer',
+    'refugees-jahnhalle',
+    'refugees-lageso',
+    'refugees-mdorferweg',
+    'refugees-teske-downlink'
+  );
+
   $CONFIG['cat']['Flux-FM'] = array(
     'fluxfm-core',
     'fluxfm-m2-o',
