@@ -288,4 +288,20 @@
     'tristeza',
     'wg1337-west'
   );
+  
+  $CONFIG['cat']['Cottbuss'] = array(
+    'cottbus-karlstr24',
+    'cottbus-kreuzkirche',
+    'cottbus-poznaner-str19',
+    'cottbus-promo',
+    'cottbus-quasimono',
+    'cottbus-sp3_nw',
+    'cottbus-sp3_o',
+    'cottbus-sp3_w',
+    'cottbus-tl-x001',
+    'cottbus-vom-stein-str-37',
+    'cottbus-wrathenaustr14b',
+    'cottbus-zimmerstr-9',
+    'cottbus-zuschka21'
+  );
 ?>
