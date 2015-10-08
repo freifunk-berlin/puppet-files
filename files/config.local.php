@@ -280,6 +280,7 @@
   
   $CONFIG['cat']['Neukölln - Kneipen, Cafes und private APs'] = array(
     'Fulda52',
+    'freifunk-tschuesch',
     'Harzer89',
     'nk-bendastr',
     'nk-blage',
