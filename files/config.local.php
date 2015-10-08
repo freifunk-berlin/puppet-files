@@ -174,6 +174,19 @@
     'refugees-mdorferweg',
     'refugees-teske-downlink'
   );
+  
+  $CONFIG['cat']['Stuttgarter Str.'] = array(
+    'stuttgarter-core',
+    'stuttgarter-emma',
+    'stuttgarter-hof',
+    'stuttgarter-nord',
+    'stuttgarter-ost',
+    'stuttgarter-rhnk',
+    'stuttgarter-stra',
+    'stuttgarter-sued',
+    'stuttgarter-west'
+  );
+
 
   $CONFIG['cat']['Flux-FM'] = array(
     'fluxfm-core',
