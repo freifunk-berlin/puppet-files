@@ -269,6 +269,11 @@
   );
   
   $CONFIG['cat']['Kreuzberg - Kneipen, Cafes und private APs'] = array(
+    'AnhalterBf-Sued-2GHz',
+    'AnhalterBf-Sued-5GHz',
+    'AnhalterBf-Sued-5GHz-RHXB_BBB',
+    'AnhalterBf-SuedWest-5GHz-DTMB_BBB',
+    'AnhalterBf-WDR3600',
     'xberg-suedblock',
     'xberg-tantehorst'
   );
