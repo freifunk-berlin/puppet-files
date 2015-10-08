@@ -267,25 +267,20 @@
     'rixbox-node02',
     'rixbox-node03'
   );
-  $CONFIG['cat']['Kneipen, Cafes und private APs'] = array(
-    'beuth0',
-    'tantehorst',
-    'Suedblock',
-    'blage',
-    'tristeza',
-    'silverfuture',
-    'schaumschlaeger',
-    'Harzer89',
+  
+  $CONFIG['cat']['Kreuzberg - Kneipen, Cafes und private APs'] = array(
+    'xberg-suedblock',
+    'xberg-tantehorst'
+  );
+  
+  $CONFIG['cat']['Neukölln - Kneipen, Cafes und private APs'] = array(
     'Fulda52',
-    'kfetisch',
-    'voigt42',
-    'milli',
-    'laidak',
-    'derrida',
-    'Hermann12',
-    'vetomat-indoor',
-    'vetomat-outdoor',
-    'wahlkreisbuero-wawzyniak',
+    'Harzer89',
+    'nk-bendastr',
+    'nk-blage',
+    'nk-schaumschlaeger',
+    'nk-silverfuture',
+    'tristeza',
     'wg1337-west'
   );
 ?>
