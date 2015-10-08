@@ -160,7 +160,9 @@
     'refugee-mesh-7',
     'refugee-mesh-8',
     'refugee-mesh-9',
-    'refugee-mesh-10'
+    'refugee-mesh-10',
+    'refugee-mesh-11',
+    'refugee-mesh-12'
   );
 
   $CONFIG['cat']['Flux-FM'] = array(
