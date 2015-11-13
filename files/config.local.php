@@ -20,10 +20,13 @@
     'vmhost03.berlin.freifunk.net',
     'bbb-vpn.berlin.freifunk.net',
     'icvpn02.berlin.freifunk.net',
-    'vpn02.berlin.freifunk.net',
-    'vpn03.berlin.freifunk.net',
+    'vpn02.berlin.freifunk.net'
+  );
+  $CONFIG['cat']['vpn03.berlin.freifunk.net'] = array(
+    'vpn03a.berlin.freifunk.net',
     'vpn03b.berlin.freifunk.net',
-    'vpn03c.berlin.freifunk.net'
+    'vpn03c.berlin.freifunk.net',
+    'vpn03d.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
