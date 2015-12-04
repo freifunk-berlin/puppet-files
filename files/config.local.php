@@ -175,7 +175,8 @@
     'refugees-jahnhalle',
     'refugees-lageso',
     'refugees-mdorferweg',
-    'refugees-teske-downlink'
+    'refugees-teske-downlink',
+    'notunterkunft-malmoeer8'
   );
   
   $CONFIG['cat']['Stuttgarter Str.'] = array(
