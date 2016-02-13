@@ -296,6 +296,21 @@
     'wg1337-west'
   );
   
+  $CONFIG['cat']['Treptow / Köpenick'] = array(
+    'Adlershof-Eigeninitiative',
+    'Ahof-frieden-bbbgw', 'Ahof-frieden01', 'Ahof-frieden02', 'Ahof-frieden03',
+    'ekke-aussen', 'ekke-innen',
+    'eschenbach5',
+    'ff_Ahoernchen2',
+    'Geographie',
+    'Mitmach-Republik',
+    'PFTK',
+    'Rabenhaus',
+    'Unter_den_Linden',
+    'Wilhelminenhofstrasse',
+    'wop-sued'
+  );
+
   $CONFIG['cat']['Cottbuss'] = array(
     'cottbus-karlstr24',
     'cottbus-kreuzkirche',
