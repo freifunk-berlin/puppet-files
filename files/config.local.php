@@ -326,4 +326,10 @@
     'cottbus-zimmerstr-9',
     'cottbus-zuschka21'
   );
+
+  $CONFIG['cat']['Grünheide'] = array(
+    'freifunkgruenheide02',
+    'freifunkgruenheide07',
+    'freifunkgruenheide08'
+  );
 ?>
