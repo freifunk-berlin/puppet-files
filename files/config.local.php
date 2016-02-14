@@ -330,6 +330,8 @@
   $CONFIG['cat']['Grünheide'] = array(
     'freifunkgruenheide02',
     'freifunkgruenheide07',
-    'freifunkgruenheide08'
+    'freifunkgruenheide08',
+    'freifunkgruenheide09',
+    'freifunkgruenheide10'
   );
 ?>
