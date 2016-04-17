@@ -178,7 +178,9 @@
     'refugees-teske-downlink',
     'notunterkunft-malmoeer8',
     'notunterkunft-malmoeer8-slave-0',
-    'notunterkunft-malmoeer8-slave-1'
+    'notunterkunft-malmoeer8-slave-1',
+    'refugees-geibel-halle',
+    'refugees-lobeck-core'
   );
   
   $CONFIG['cat']['Stuttgarter Str.'] = array(
