@@ -184,7 +184,7 @@
     'refugees-geibel-halle',
     'refugees-lobeck-core'
   );
-  
+
   $CONFIG['cat']['Stuttgarter Str.'] = array(
     'stuttgarter-core',
     'stuttgarter-emma',
@@ -277,7 +277,7 @@
     'rixbox-node02',
     'rixbox-node03'
   );
-  
+
   $CONFIG['cat']['Kreuzberg - Kneipen, Cafes und private APs'] = array(
     'AnhalterBf-Sued-2GHz',
     'AnhalterBf-Sued-5GHz',
@@ -287,7 +287,7 @@
     'xberg-suedblock',
     'xberg-tantehorst'
   );
-  
+
   $CONFIG['cat']['Neukölln - Kneipen, Cafes und private APs'] = array(
     'Fulda52',
     'freifunk-tschuesch',
@@ -299,7 +299,7 @@
     'tristeza',
     'wg1337-west'
   );
-  
+
   $CONFIG['cat']['Treptow / Köpenick'] = array(
     'Adlershof-Eigeninitiative',
     'Ahof-frieden-bbbgw', 'Ahof-frieden01', 'Ahof-frieden02', 'Ahof-frieden03',
