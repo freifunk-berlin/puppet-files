@@ -338,4 +338,16 @@
     'freifunkgruenheide09',
     'freifunkgruenheide10'
   );
+
+  $CONFIG['cat']['Scherer8'] = array(
+    'scherer8',
+    'scherer8-abb',
+    'basta',
+    'Scherer8-BHT',
+    'Scherer8-TUB',
+    'Scherer8-Segen',
+    'Scherer8-Dach-Nordost',
+    'Scherer8-2Ghz-Dach-Suedost',
+  );
+
 ?>
