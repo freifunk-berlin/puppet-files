@@ -28,7 +28,8 @@
     'vpn03c.berlin.freifunk.net',
     'vpn03d.berlin.freifunk.net',
     'vpn03e.berlin.freifunk.net',
-    'vpn03f.berlin.freifunk.net'
+    'vpn03f.berlin.freifunk.net',
+    'vpn03g.berlin.freifunk.net'
   );
   $CONFIG['cat']['Server und Gateways'] = array(
     'segen-router', 'servnix42', 'druschba'
