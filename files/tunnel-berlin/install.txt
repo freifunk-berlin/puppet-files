@@ -1,0 +1,14 @@
+apt-get install openvpn collectd
+apt-get	remove os-prober
+cp xxx.conf /etc/openvpn/
+cp -r xxx  /etc/openvpn/ssl/community
+nano /etc/defauls/openvpn --> AUTOSTART=all
+
+adduser --system --no-create-home openvpn
+
+visudo --> gruppe tunneladmin "sudo su" erlauben
+addgroup tunnel-admin
+adduser --disabled-password --ingroup tunnel-admin <user>
+su <user> mkdir ~/.ssh
+su <user> nano ~/.ssh/authorized_keys
+
