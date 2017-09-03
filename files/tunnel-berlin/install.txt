@@ -6,7 +6,9 @@ nano /etc/defauls/openvpn --> AUTOSTART=all
 
 adduser --system --no-create-home openvpn
 
-visudo --> gruppe tunneladmin "sudo su" erlauben
+echo  >/etc/sudoers.d/freifunk "# Allow members of group tunnel-admin to execute any command"
+echo >>/etc/sudoers.d/freifunk "%tunnel-admin   ALL=(ALL:ALL) NOPASSWD:ALL"
+
 addgroup tunnel-admin
 adduser --disabled-password --ingroup tunnel-admin <user>
 su <user> mkdir ~/.ssh
