@@ -2,6 +2,7 @@ apt-get install openvpn collectd
 apt-get	remove os-prober
 cp xxx.conf /etc/openvpn/
 cp -r xxx  /etc/openvpn/ssl/community
+openssl dhparam -out /etc/openvpn/ssl/community/dh1024.pem 1024
 nano /etc/defauls/openvpn --> AUTOSTART=all
 
 adduser --system --no-create-home openvpn
