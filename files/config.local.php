@@ -4,6 +4,8 @@
   $CONFIG['graph_type'] = 'hybrid';
   # default plugins to show on host page
   $CONFIG['overview'] = array('load', 'cpu', 'memory', 'interface');
+  $CONFIG['network_datasize'] = 'bits';
+  $CONFIG['percentile'] = 95;
 
   $CONFIG['cat']['freifunk.net'] = array(
     'www.freifunk.net'
