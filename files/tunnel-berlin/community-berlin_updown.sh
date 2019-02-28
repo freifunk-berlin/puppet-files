@@ -8,6 +8,15 @@ log() {
 up_actions() {
         log "running up-actions"
         UPLINK_IF=`ip route |grep default|awk '{print $5}'`
+        if [ -z $UPLINK_IF ]; then
+                log "no interface with default-route found"
+                IFS=" :"
+                IF_LIST=`ip --oneline link show|grep -v "lo:"|grep -v "$TUNNEL_IF:"`
+                if [ `echo $IF_LIST |wc -l` = 1 ]; then
+                        log "found one possible uplink-interface"
+                        UPLINK_IF=`echo $IF_LIST|awk '{print $2}'`
+                fi
+        fi
         log "uplink interface: $UPLINK_IF"
         # create table for our tunnel
         # ignore error when already there
