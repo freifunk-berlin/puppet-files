@@ -6,6 +6,7 @@
   $CONFIG['overview'] = array('load', 'cpu', 'memory', 'interface');
   $CONFIG['network_datasize'] = 'bits';
   $CONFIG['percentile'] = 95;
+  $CONFIG['showload'] = false;
 
   $CONFIG['cat']['freifunk.net'] = array(
     'www.freifunk.net'
