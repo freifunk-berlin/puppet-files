@@ -1,5 +1,5 @@
 <?php
-  $CONFIG['version'] = 4;
+  $CONFIG['version'] = 5;
   $CONFIG['socket'] = 'unix:///var/run/collectd-socket';
   $CONFIG['graph_type'] = 'hybrid';
   # default plugins to show on host page
