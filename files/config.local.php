@@ -349,12 +349,12 @@
   $CONFIG['cat']['Scherer8'] = array(
     'scherer8',
     'scherer8-abb',
+    'scherer8-eg-s',
+    'scherer8-eg-nw',
+    'scherer8-eg-o',
     'basta',
-    'Scherer8-BHT',
-    'Scherer8-TUB',
-    'Scherer8-Segen',
-    'Scherer8-Dach-Nordost',
-    'Scherer8-2Ghz-Dach-Suedost',
+    'Scherer8-Dach-Ost',
+    'Scherer8-Perleberger36',
   );
 
 ?>
