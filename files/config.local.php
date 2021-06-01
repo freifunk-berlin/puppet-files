@@ -267,4 +267,16 @@
     'fardf-west',
   );
 
+  $CONFIG['cat']['Kosmos Viertel'] = array(
+    'kosmos-medienetage',
+    'kosmos-ortolf202-ost',
+    'kosmos-ortolf206-west',
+    'kosmos-schoenchau183-ost',
+    'kosmos-wama',
+    'kosmos-wama-back-l',
+    'kosmos-wama-cafe-l',
+    'kosmos-wama-cafe-r',
+    'kosmos-wama-front-l',
+    'kosmos-wama-front-r',
+  );
 ?>
