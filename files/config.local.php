@@ -218,8 +218,8 @@
     'scherer8-eg-nw',
     'scherer8-eg-o',
     'basta',
-    'Scherer8-Dach-Ost',
     'Scherer8-Perleberger36',
+    'Scherer8-Beuth',
   );
 
   $CONFIG['cat']['Scharni'] = array(
