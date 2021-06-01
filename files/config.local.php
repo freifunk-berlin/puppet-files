@@ -254,4 +254,17 @@
     'perleberger36-turm-2ghz-so',
     'perleberger36-turm-2ghz-sw',
   );
+
+  $CONFIG['cat']['Finanzamt Reinickendorf'] = array(
+    'fardf',
+    'fardf-beuth',
+    'fardf-maerkisches',
+    'fardf-nord',
+    'fardf-oranienburger',
+    'fardf-ost',
+    'fardf-sange',
+    'fardf-sued',
+    'fardf-west',
+  );
+
 ?>
