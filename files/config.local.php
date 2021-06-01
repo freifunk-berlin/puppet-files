@@ -244,4 +244,14 @@
     'beuth0-west',
   );
 
+  $CONFIG['cat']['Perleberger36'] = array(
+    'perleberger36',
+    'perleberger36-hof-2ghz-n',
+    'perleberger36-hof-2ghz-s',
+    'perleberger36-turm-2ghz-no',
+    'perleberger36-turm-2ghz-nw',
+    'perleberger36-turm-2ghz-o',
+    'perleberger36-turm-2ghz-so',
+    'perleberger36-turm-2ghz-sw',
+  );
 ?>
