@@ -230,4 +230,18 @@
     'scharni-ap3'
   );
 
+  $CONFIG['cat']['Beuth Hochschule'] = array(
+    'beuth0',
+    'beuth0-chris',
+    'beuth0-fa-reinickendorf',
+    'beuth0-jup',
+    'beuth0-nord'
+    'beuth0-ost',
+    'beuth0-perleberger36',
+    'beuth0-scherer8',
+    'beuth0-segen',
+    'beuth0-sued',
+    'beuth0-west',
+  );
+
 ?>
